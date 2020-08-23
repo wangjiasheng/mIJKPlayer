@@ -1,0 +1,4 @@
+include ':ijkplayer-exo'
+include ':ijkplayer-java'
+include ':app'
+rootProject.name = "fourkgarden"
